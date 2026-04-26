@@ -1,10 +1,19 @@
 #  小野AI Content Creation Platform
 
+<div align="center">
+  <a href="https://ai.xiaoye.io/" target="_blank">
+    <img src="docs/screenshots/xiaoye.png" alt="XiaoYe API" width="96" />
+  </a>
+  <h3>XiaoYe API Gateway</h3>
+  <p>A unified gateway for large model APIs with better pricing and stability. Supports 30+ mainstream providers including OpenAI, Claude, Gemini, DeepSeek, Qwen, Volcengine, and Moonshot AI.</p>
+  <p><a href="https://ai.xiaoye.io/"><strong>Visit https://ai.xiaoye.io/</strong></a></p>
+</div>
+
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 
 Open-source multi-modal AI content creation platform. Generate images and videos with Google Gemini, Volcengine Seedream/Seedance, and more.
 
-**Live Demo: [https://xiaoye.io](https://xiaoye.io)**
+**Live Demo: [https://muse-ai.nlink.vip/](https://muse-ai.nlink.vip/)**
 
 [English](#features) | [中文](README.md)
 

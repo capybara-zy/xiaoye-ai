@@ -1,10 +1,19 @@
 # 小野AI 内容创作平台
 
+<div align="center">
+  <a href="https://ai.xiaoye.io/" target="_blank">
+    <img src="docs/screenshots/xiaoye.png" alt="XiaoYe API" width="96" />
+  </a>
+  <h3>小野 API 中转站</h3>
+  <p>统一的大模型接口网关，更好的价格，更好的稳定性。支持 OpenAI、Claude、Gemini、DeepSeek、Qwen、Volcengine、Moonshot AI 等 30+ 主流模型供应商。</p>
+  <p><a href="https://ai.xiaoye.io/"><strong>立即访问 https://ai.xiaoye.io/</strong></a></p>
+</div>
+
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 
 开源多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 
-**在线体验: [https://xiaoye.io](https://xiaoye.io)**
+**在线体验: [https://muse-ai.nlink.vip/](https://muse-ai.nlink.vip/)**
 
 [中文](#功能特性) | [English](README_EN.md)
 
