@@ -211,11 +211,16 @@ server {
 
 ## 未来功能
 
+- **前瞻版访问地址** — [https://xiaoye.io/](https://xiaoye.io/)
 - **画布支持** — 可视化画布编辑器，支持图层操作、局部重绘与自由拼接
 
 ## 致谢
 
 感谢 [Linux.do](https://linux.do) 社区的交流与支持，项目的许多想法和改进都来自社区成员的反馈。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=capybara-zy/xiaoye-ai&type=date&legend=top-left)](https://www.star-history.com/?repos=capybara-zy%2Fxiaoye-ai&type=date&legend=top-left)
 
 ## 开源协议
 

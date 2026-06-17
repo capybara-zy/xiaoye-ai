@@ -108,6 +108,19 @@ Set `CORS_ORIGINS=https://your-domain.com` in your production `.env`.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Future Features
+
+- **Preview Access** — [https://xiaoye.io/](https://xiaoye.io/)
+- **Canvas Support** — Visual canvas editor with layer operations, partial repainting, and free-form composition
+
+## Acknowledgements
+
+Thanks to the [Linux.do](https://linux.do) community for discussion and support. Many ideas and improvements in this project come from community feedback.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=capybara-zy/xiaoye-ai&type=date&legend=top-left)](https://www.star-history.com/?repos=capybara-zy%2Fxiaoye-ai&type=date&legend=top-left)
+
 ## License
 
 This project is licensed under the [AGPL-3.0](LICENSE). If you deploy a modified version as a network service, you must make the source code available to users of that service.
