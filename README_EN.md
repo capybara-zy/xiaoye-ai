@@ -13,7 +13,7 @@
 
 Open-source multi-modal AI content creation platform. Generate images and videos with Google Gemini, Volcengine Seedream/Seedance, and more.
 
-**Live Demo: [https://muse-ai.nlink.vip/](https://muse-ai.nlink.vip/)**
+**Live Demo: [https://xiaoye.io/](https://xiaoye.io/)**
 
 [English](#features) | [中文](README.md)
 
